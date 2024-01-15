@@ -1,5 +1,3 @@
-# Excel-Sales-Report-
-Sales Report of AtliQ Technologies
 ## Sales and Finance Analysis
 
 Welcome to the Sales and Finance Analysis repository! This project aims to empower businesses through insightful analytics, focusing on both sales and financial data. Below, you'll find an overview of the project's objectives, the purpose of our analytics, and the importance of delving into the intricacies of sales and finance.
